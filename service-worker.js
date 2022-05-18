@@ -15,7 +15,7 @@ importScripts("/WalletConnect-Bridge/workbox-v3.6.3/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/WalletConnect-Bridge/workbox-v3.6.3"});
 
 importScripts(
-  "/WalletConnect-Bridge/precache-manifest.7ad204fa37dff90ae73042dabbffadf4.js"
+  "/WalletConnect-Bridge/precache-manifest.d8249e92d6ef265cb4c7b627a1d6ac6a.js"
 );
 
 workbox.clientsClaim();

@@ -1,12 +1,12 @@
 {
-  "main.js": "/WalletConnect-Bridge/static/js/main.e6252864.chunk.js",
-  "main.js.map": "/WalletConnect-Bridge/static/js/main.e6252864.chunk.js.map",
+  "main.js": "/WalletConnect-Bridge/static/js/main.d0b483f8.chunk.js",
+  "main.js.map": "/WalletConnect-Bridge/static/js/main.d0b483f8.chunk.js.map",
   "static/js/1.e124be08.chunk.js": "/WalletConnect-Bridge/static/js/1.e124be08.chunk.js",
   "static/js/1.e124be08.chunk.js.map": "/WalletConnect-Bridge/static/js/1.e124be08.chunk.js.map",
   "runtime~main.js": "/WalletConnect-Bridge/static/js/runtime~main.20f29032.js",
   "runtime~main.js.map": "/WalletConnect-Bridge/static/js/runtime~main.20f29032.js.map",
   "static/media/walletconnect-banner.png": "/WalletConnect-Bridge/static/media/walletconnect-banner.e1cb8d21.png",
   "index.html": "/WalletConnect-Bridge/index.html",
-  "precache-manifest.7ad204fa37dff90ae73042dabbffadf4.js": "/WalletConnect-Bridge/precache-manifest.7ad204fa37dff90ae73042dabbffadf4.js",
+  "precache-manifest.d8249e92d6ef265cb4c7b627a1d6ac6a.js": "/WalletConnect-Bridge/precache-manifest.d8249e92d6ef265cb4c7b627a1d6ac6a.js",
   "service-worker.js": "/WalletConnect-Bridge/service-worker.js"
 }
