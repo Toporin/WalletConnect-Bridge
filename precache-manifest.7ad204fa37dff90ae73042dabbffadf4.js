@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/WalletConnect-Bridge/static/media/walletconnect-banner.e1cb8d21.png"
   },
   {
-    "revision": "91c7b6850731466bb0b57f98a95f9fbf",
+    "revision": "b063e613d4d7f2bbaa8d142277ef4ace",
     "url": "/WalletConnect-Bridge/index.html"
   }
 ];
