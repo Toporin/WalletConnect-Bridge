@@ -15,8 +15,8 @@ export default class IframeComponent extends Component {
 
 	setupListeners() {
 		console.log(`in IframeComponent setupListeners() START`);
-        //const tabDomain = 'link-to-production-server';
-        const tabDomain = 'http://localhost:3000';
+        const tabDomain = 'https://toporin.github.io/WalletConnect-Bridge/'; // production server
+        //const tabDomain = 'http://localhost:3000'; // local test server
 
 		// Open as IFRAME
 		onmessage = async ({ data, source, origin }) => {
